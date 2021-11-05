@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-image:url("https://pbs.twimg.com/media/B7zW9JECUAEuAde.jpg");
+      background-size: cover;
+    }
+  }
+
+body {
+    background-image: url("https://pbs.twimg.com/media/B7zW9JECUAEuAde.jpg");
+    background-size: cover;
+}

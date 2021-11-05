@@ -1,0 +1,7 @@
+.container-lg{
+    margin-top: 70px;
+}
+.card{
+    margin: 5px;
+    background-color: hsla(180, 53%, 79%, 0.13);
+}
